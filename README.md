@@ -2,4 +2,4 @@
 
 ### Убрал хардкод путей до файлов и добавил проверку на существование главного файла
 
-### Заменил listOfFlags на enum class States
+### Заменил listOfFlags на enum class Sections
